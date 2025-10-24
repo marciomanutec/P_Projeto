@@ -9,9 +9,7 @@
 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="Center">
-<img alt="projeto DevLinks" src="./.github/my-project.jpg" widht="100%">
-</p>
+![Projeto DevLinks](./.github/my-project.png)
 
 ## Tecnologias
 
