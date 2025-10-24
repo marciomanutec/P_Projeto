@@ -10,7 +10,7 @@
 </p>
 
 <p align="Center">
-<img alt="projeto DevLinks" src=".github/my-project.png" widht="100%">
+<img alt="projeto DevLinks" src="./github/my-project.png" widht="100%">
 </p>
 
 ## Tecnologias
