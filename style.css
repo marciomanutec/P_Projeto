@@ -143,6 +143,10 @@ ul li a:hover {
   border: 1px solid var(--text-color);
 }
 
+.hidden {
+  display: none !important;
+}
+
 /* social links */
 #social-links {
   display: flex;
